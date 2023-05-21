@@ -1,0 +1,7 @@
+This is a text file. Is it a component?
+
+I don't really have favorite movies.
+Previous favorite movies:
+* Stand By Me
+* Shall We Dance?
+* Mary Poppins
